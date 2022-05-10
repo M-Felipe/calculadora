@@ -1,0 +1,49 @@
+html,
+body {
+  height: 50%;
+}
+
+html {
+  display: table;
+  margin: auto;
+}
+
+body {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+#butao {
+  margin-top: 10%;
+  margin-left: 10%;
+}
+
+#delete {
+  display: flex;
+  text-align: center;
+  width: 15px;
+  margin-left: -3px;
+}
+#img_delete {
+  margin-left: 5px;
+}
+
+#topo {
+  text-align: center;
+  display: flex;
+  align-items: center;
+}
+
+.test {
+  margin: 5%;
+}
+
+button {
+  width: 25px;
+  height: 25px;
+  margin-right: 5px;
+}
+
+#fundo {
+  background-color: aqua;
+}
